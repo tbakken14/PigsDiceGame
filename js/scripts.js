@@ -14,8 +14,8 @@ function handleEnd(game) {
 }
 
 function display(game) {
-    let score1 = document.querySelector("#1");
-    let score2 = document.querySelector("#2");
+    let score1 = document.querySelector("#a");
+    let score2 = document.querySelector("#b");
     let turnScore = document.querySelector("#turnScore");
     let turn = document.querySelector("#turn");
 
